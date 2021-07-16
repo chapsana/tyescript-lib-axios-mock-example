@@ -1,5 +1,5 @@
 // import axios from 'axios';
-import {Selcom} from '../src/index';
+import { Selcom } from '../src/index';
 import users from './users.json';
 
 // jest.mock('axios');
